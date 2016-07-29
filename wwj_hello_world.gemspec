@@ -7,8 +7,8 @@ require 'wwj_hello_world/version'
 Gem::Specification.new do |gem|
   gem.name          = "wwj_hello_world"
   gem.version       = WwjHelloWorld::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = "hello world"
+  gem.description   = "hello world"
   gem.license       = "MIT"
   gem.authors       = ["wwj"]
   gem.email         = "wuwenjie718@gmail.com"

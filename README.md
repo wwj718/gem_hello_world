@@ -20,8 +20,5 @@ TODO: Description
 
     $ gem install wwj_hello_world
 
-## Copyright
-
-Copyright (c) 2016 wwj
-
-See LICENSE.txt for details.
+# project template tool
+https://github.com/ruby-ore/ore
