@@ -13,7 +13,7 @@ TODO: Description
 ## Examples
 
     require 'wwj_hello_world'
-
+    WwjHelloWorld.say_hello
 ## Requirements
 
 ## Install
