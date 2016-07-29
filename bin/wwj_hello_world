@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'wwj_hello_world'
+puts WwjHelloWorld.say_hello()

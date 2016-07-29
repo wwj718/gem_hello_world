@@ -25,7 +25,8 @@ Gem::Specification.new do |gem|
       end
     end
   end
-  gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
+  #gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
+  gem.executables << 'wwj_hello_world'
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
