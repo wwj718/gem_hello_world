@@ -14,6 +14,9 @@ TODO: Description
 
     require 'wwj_hello_world'
     WwjHelloWorld.say_hello
+    
+## executable (shell)
+wwj_hello_world
 ## Requirements
 
 ## Install
